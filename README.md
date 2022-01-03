@@ -22,9 +22,9 @@
 
 👤 ** Leonardo Albornoz **
 
-- GitHub: []()
-- Twitter: [@Leboroz](https://twitter.com/Nizamuddin4493)
-- LinkedIn: []()
+- GitHub: [@Leboroz](https://github.com/leboroz)
+- Twitter: [@Leboroz](https://twitter.com/leboroz)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/leonardo-albornoz-216784198/)
 
 👤 **Vincent Abuya Obunga**
 
