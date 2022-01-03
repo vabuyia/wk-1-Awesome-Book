@@ -80,8 +80,9 @@ class Booklet {
     addButton.addEventListener('click', () => this.addNewBook(this.bookList))
   }
 }
-
-const allBooks = new Booklet(document.querySelector('.listShow'))
-allBooks.generateBooks()
-allBooks.checkLocalStorage()
-allBooks.addListener()
+window.onload = () => {
+  const allBooks = new Booklet(document.querySelector('.listShow'))
+  allBooks.generateBooks()
+  allBooks.checkLocalStorage()
+  allBooks.addListener()
+}
